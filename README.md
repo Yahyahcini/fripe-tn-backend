@@ -1,1 +1,1 @@
-i have used render.com servers to deploy the backend and because it does have a temporary system like when the server restarts images will be removed automatically, to solve this probleme i upload images to a manual upload website then i get the url of the image with this method i can upload images easily. i use postimages.org for this process 💻
+i have used render.com servers to deploy the backend and because it does have a temporary system like when the server restarts images will be removed automatically, to solve this probleme upgrade is crucial 💻
