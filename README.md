@@ -1,4 +1,4 @@
-#### *💻i have used render.com servers to deploy the backend and because it have a temporary system, when the server restarts images will be removed automatically, to solve this probleme upgrade is crucial.*
+#### *💻i have used render.com servers to deploy the backend and because it have a temporary system, when the server restarts images will be removed automatically, to solve this probleme one have to upgrade to premieme.*
 
 
 
