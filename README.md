@@ -2,4 +2,4 @@
 
 
 
-*this folder provide strapi cms files*
+*this folder provides strapi cms files*
